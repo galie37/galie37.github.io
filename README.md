@@ -1,2 +1,3 @@
-# galie37.github.io
-Just share something about my skills in writing papers.
+# 这是江岚的主页~
+##不定期分享一些也许有用的小东西和小技巧~
+---
